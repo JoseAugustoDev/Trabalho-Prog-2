@@ -1,5 +1,6 @@
 import pickle
 
+# Feito por José Augusto
 
 def carregar_dados(nome_arquivo):
 
